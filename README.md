@@ -1,0 +1,2 @@
+# Yellow-Ball-Game
+Simples jogo desenvolvido por mim com base nos vídeos do YouTube do @filipealvesdef, a estilização do jogo foi desenhada pelo Filipe e o código foi desenvolvido baseado nas explicações dele. O game é bem intuitivo e simples de se jogar, dando apenas alguns cliques com o mouse na tela o personagem responde a ação pulando e a cada frame aparece obstáculos com altura e largura aleatórias que pode dificultar a sua jogabilidade. 
